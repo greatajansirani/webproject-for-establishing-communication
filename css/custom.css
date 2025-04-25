@@ -1,0 +1,216 @@
+
+.body{
+    font-family:system-ui;
+}
+.bannerclass{
+position:absolute;
+width:34%;
+}  
+.grad {
+background-image: linear-gradient(to right bottom, lightblue, lavender,pink);
+position:relative;
+height:450px;
+}
+.button1{
+    background-color: deeppink !important;
+    color:white !important;
+    border: 2px solid #FFF;
+}
+.textalign{
+    text-align: center;
+}
+.textcolor{
+    color: hotpink;
+    font-size:13px;
+}
+.imageclass{
+    width:60% !important;
+}
+.pngclass{
+    height:70px;
+    width:40px;
+}
+.positionclass{
+    position: relative;
+    top: -80px;
+}
+.height{
+    height:300px !important;
+}
+.textcolor1{
+    color:hotpink;
+}
+.styleclass{
+    margin-top:50px;
+}
+.imgclass{
+    width:40px;
+}
+.rightbannerclass{
+    padding-left:50px;
+}
+.borderclass{
+    border-color:#333 !important;
+    border-bottom:4px !important;
+    border-style: solid !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+    
+}
+.position1class{
+    margin-left:1000px;
+    top:-80px;
+}
+.customclass{
+  position:relative;  
+}
+.custom1class{
+    position: absolute;
+    top:50px;
+    background-color:#fff;
+    width: 100%;
+}
+.custom2class{
+    position:absolute;
+    margin-top: -200px;
+    background-color:#fff;
+}
+.leftbannerclass{
+padding-left:150px !important;
+padding-right:50px !important;
+padding-top:15px !important;
+
+}
+.bg-cus-pink{
+    background-image:linear-gradient(to right, #e94d98, #d30668) !important;
+    border-color:#f71e93;
+    color:white !important;
+}
+.bg-cus-pink:hover{
+    background-image:linear-gradient(to right, #e1087d, #ab0554) !important;
+    background-color:#e1087d;
+    border: 1px solid #e1087d;
+}
+.po1-class{
+    position:absolute;
+    margin-top:-19% !important;
+    width:80%;
+    
+}
+.po2-class{ 
+  position:relative;
+}
+.paddingclass{
+    margin-top:120px !important;
+}
+.grad-padding{
+    padding-top:80px;
+}
+.lastbannerclass{
+    padding-right:100px !important;
+    padding-top:15px !important;
+}
+.notificationclass{
+    width:80% !important;
+}
+.styleclass{
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
+    padding:40px 0px 20px;
+}
+.style2class{
+    width:100%;
+    font-size:20px;
+}
+.iconclass{
+  width:44% !important; 
+}
+.marginclass{
+    padding-left:30px;
+}
+.mainbuttonclass{
+    margin-left:30px;
+}
+.mainmarginclass{
+    margin-top:20px;
+}
+.textclass{
+    margin-left:-10px;
+}
+.mainiconclass{
+margin-left:-50px;
+}
+.maintextclass{
+    margin-left:-20px;
+}
+.dotclass{
+    width:100%;
+    margin-left:-20px;
+}
+.fontsize{
+    font-size:12px;
+}
+.correctclass{
+    padding-left:25%;
+    padding-right:25%;
+}
+.height2{
+    height:300px !important;
+}
+.correct2class{
+    padding-left: 20%;
+    padding-right: 22%;
+}
+
+
+
+
+@media screen and (min-width:320px) and (max-width:576px){
+    .paddingclass{
+        margin-top: 200px;
+    }
+    .headerclass{
+        display:none !important;
+    }
+    .bannerclass{
+        width:80% !important;
+}
+    .grad{
+        height:625px;
+    }
+    .custom2class{
+        margin-top:-132px;
+    }
+    .height{
+        height:625px !important;
+    }
+    .newcardclass{
+        margin-bottom:10px;
+    }
+    .newtextclass{
+        text-align: center;
+    }
+    .mainimageclass{
+        width:40px;
+    }
+    .pclass{
+        margin-left:70px;
+    }
+    .height2{
+        height:400px !important;
+    }
+    .m2class{
+        margin-top:-22px !important;
+    }
+    .pmclass {
+        margin-left:-18px;
+    }
+    .bannerclass{
+        padding-top:10px;
+    }
+}
+@media screen and (min-width:577px) and (max-width:992px){
+    
+}
